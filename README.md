@@ -1,2 +1,2 @@
 # stopwatch
-stopwatch using html, css, javascripy
+stopwatch using html, css, javascript
